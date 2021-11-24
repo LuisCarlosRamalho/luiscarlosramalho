@@ -1,9 +1,8 @@
-## Olá, tudo bom ?
+## Olá, tudo bom ? 
 
-- 🔭 Hoje apenas estudo para ingressar na área de desenvolvimento
-- 🌱 Estou focando em HTML, CSS e Javascript
-- 💬 Contate-me no email ramalho.luiscarlo@gmail.com
+Me chamo Luis Carlos e sou graduando em Análise e Desenvolvimento de Sistemas. Sou um carioca que mora em São Paulo desde Setembro de 2020. Sim, me mudei durante a pandemia. Era um projeto que eu e minha esposa tínhamos. Decidi prosseguir com a mudança e deu tudo certo, graças a Deus. 
 
+Tenho como objetivo iniciar na área de desenvolvimento web e hoje estou focadno meus estudos no front-end. Estou gostando muito de adquirir novos conhecimentos e vou utilizar esse espaço para compartilhar todos meus projetos.
 
 
 <div align="center">
