@@ -2,8 +2,9 @@
 
 Me chamo Luis Carlos e sou graduando em Análise e Desenvolvimento de Sistemas. Sou um carioca que mora em São Paulo desde Setembro de 2020. Sim, me mudei durante a pandemia. Era um projeto que eu e minha esposa tínhamos. Decidi prosseguir com a mudança e deu tudo certo, graças a Deus. 
 
-Tenho como objetivo iniciar na área de desenvolvimento web e hoje estou focadno meus estudos no front-end. Estou gostando muito de adquirir novos conhecimentos e vou utilizar esse espaço para compartilhar todos meus projetos.
+Tenho como objetivo iniciar na área de desenvolvimento web e hoje estou focando meus estudos no front-end. Estou gostando muito de adquirir novos conhecimentos e vou utilizar esse espaço para compartilhar todos meus projetos.
 
+Também gosto de ler livros com temática de ficção científica, fantasia e terror. Jogador de RPG e fã de Mangá e Animes.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-carlos-ramalho/">
