@@ -2,8 +2,6 @@
 
 - 🔭 Hoje apenas estudo para ingressar na área de desenvolvimento
 - 🌱 Estou focando em HTML, CSS e Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Contate-me no email ramalho.luiscarlo@gmail.com
 
 
